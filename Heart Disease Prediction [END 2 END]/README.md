@@ -89,7 +89,7 @@ Patient Inputs Clinical Data via Web Form
 | **File** | `heart.csv` |
 | **Source** | Cleveland Heart Disease Dataset (UCI ML Repository) |
 | **Samples** | 303 patient records |
-| **Task** | Binary classification — Heart Disease (1) / No Heart Disease (0) |
+| **Task** | Binary classification — Heart Disease (1) / No Heart Disease (0) 
 
 ### Input Features
 
